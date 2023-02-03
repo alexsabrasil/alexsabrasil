@@ -26,7 +26,6 @@
  <p  class="copyright">Desenvolvido por Alexsandra Tavares </a>©</p >
  
  ![animação da cobra](https://github.com/ATSSysteminformation/ATSSysteminformation/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
 
 
