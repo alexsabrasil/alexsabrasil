@@ -2,8 +2,8 @@
 
 -  💻  Hoje estou me capacitando  e aprimorando meus conhecimentos na área tecnologica
 -  🔎  Estudando Javascript - Java - Python - PHP - SQL Server - T-SQL - Typescript -  Front-end - Back-end - LGPD
--  📩  Contate-me  no e-mail: alexsa.tecnolog@gmail.com
--  😄  Pronouns: ela/dela
+- 🏳️‍🌈🏳️‍⚧️ Respeito e Resiliencia
+- 😄 Pronomes: ela/dela
 
 <div> 
   <a href="https://www.linkedin.com/in/alexsatecnolog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
