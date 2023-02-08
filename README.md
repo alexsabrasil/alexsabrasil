@@ -32,9 +32,9 @@
   <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
    <a href = "mailto:alexsa.tecnolog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
  <p  class="copyright">Desenvolvido por Alexsandra Tavares </a>©</p >
-
+</div>
 
 
  
  ![animação da cobra](https://github.com/alexsabrasil/alexsabrasil/blob/output/github-contribution-grid-snake.svg)
- </div>
+ 
