@@ -2,7 +2,7 @@
 
 -  💻  Hoje estou me capacitando  e aprimorando meus conhecimentos na área tecnologica
 -  🔎  Estudando Javascript - Java - Python - PHP - SQL Server - T-SQL - Typescript -  Front-end - Back-end - LGPD
-- 🏳️‍🌈🏳️‍⚧️ Respeito e Resiliencia
+- 🏳️‍🌈🏳️‍⚧️ Respeito e Resiliência
 - 😄 Pronomes: ela/dela
 
 <div>
@@ -36,5 +36,5 @@
 
 
  
- ![animação da cobra](https://github.com/alexsabrasil/alexsabrasil/blob/output/github-contribution-grid-snake.svg)
+ 
  
