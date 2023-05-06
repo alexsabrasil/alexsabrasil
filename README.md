@@ -1,4 +1,5 @@
-## Olá! Sou Alexsandra Silva👋
+## <img align="center" width="850" height="350" src="https://i.ibb.co/XkKKZTv/banner-1.png" alt="banner-1" border="0">
+
 
 Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.
 
@@ -34,9 +35,6 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
 <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
  
-
-
-
 </div>
   
   ##
