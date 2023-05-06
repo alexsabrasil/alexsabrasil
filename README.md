@@ -1,4 +1,6 @@
-## <img align="center" width="850" height="350" src="https://i.ibb.co/XkKKZTv/banner-1.png" alt="banner-1" border="0">
+## Olá, seja bem vindo!
+
+## <img align="center" width="850" height="350" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
 Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.
