@@ -8,8 +8,7 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
   <a href="https://github.com/alexsabrasil">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact&langs_count=7&theme=react" />
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
-</div>
+ </div>
   
   ##
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
