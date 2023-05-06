@@ -6,17 +6,19 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
 
 <div>
   <a href="https://github.com/alexsabrasil">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact&langs_count=7&theme=react" />
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
- <br>
- <bv>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
+ 
+ 
 <div  align="center"> 
   
  <div style="display: inline_block"><br>
    
-  <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,6 +33,7 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
 <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
 <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
+ 
 
 
 
@@ -66,6 +69,7 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
   <img align="right" src="https://profile-counter.glitch.me/alexsabrasil/count.svg">
 </div> 
 
+ 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
