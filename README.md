@@ -11,21 +11,26 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
+ <bv>
 <div  align="center"> 
+  
  <div style="display: inline_block"><br>
+   
   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2023/02/03/aszOPS.logo-ale.png">
+<img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
 <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
-<img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="35" height="35"/>
+<img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
+<img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
+
 </div>
   
   ##
@@ -37,6 +42,10 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
    <a href = "mailto:alexsa.tecnolog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <br>
   <br>
+  <bv>
+  <br>
+  <br>
+  <br>
 </div>
 <table align="right">
  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
@@ -45,7 +54,7 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
 </table>
   <br>
    <br>
-  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400"/](https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)
+  <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400"(https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)/>
     
    <br>
    <br>
