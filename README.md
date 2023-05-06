@@ -1,4 +1,4 @@
-## Olá, seja bem vindo!
+## <h1 align="center">Olá, bem vindo(a)! </h1>
 
 ## <img align="center" width="850" height="350" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
