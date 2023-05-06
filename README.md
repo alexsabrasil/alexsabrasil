@@ -22,6 +22,10 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2023/02/03/aszOPS.logo-ale.png">
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
+<img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
+<img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
+<img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
+<img align = "center" src="https://i.imgur.com/t1oS4Pz.png" alt="typescript" width="35" height="35"/>
 </div>
   
   ##
@@ -41,16 +45,16 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
 </table>
   <br>
    <br>
-  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400" />](https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)
+  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400"/](https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)
     
    <br>
    <br>
 <div>  
-  <h4 align="right"> Visitors </h4>
+  <h4 align="right"> Visitas </h4>
   <img align="right" src="https://profile-counter.glitch.me/alexsabrasil/count.svg">
 </div> 
 
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
 
