@@ -21,6 +21,7 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2023/02/03/aszOPS.logo-ale.png">
+<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 </div>
   
   ##
@@ -30,25 +31,29 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
  <a href="https://www.youtube.com/channel/UCAEn5FHNuWA1BE0E3rivVLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
    <a href = "mailto:alexsa.tecnolog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  
+  <br>
+  <br>
 </div>
 <table align="right">
  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
  <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
  <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
 </table>
-  
+  <br>
+   <br>
   [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400" />](https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)
     
+   <br>
+   <br>
 <div>  
   <h4 align="right"> Visitors </h4>
   <img align="right" src="https://profile-counter.glitch.me/alexsabrasil/count.svg">
 </div> 
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
- 
-<p  class="copyright"></a>© Desenvolvido por Alexsandra Silva | 2023</p>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
 
-   </div>
+</div>
  
  
