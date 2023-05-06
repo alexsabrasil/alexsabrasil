@@ -11,7 +11,8 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
+  ##
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
  
  
 <div  align="center"> 
