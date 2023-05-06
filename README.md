@@ -32,8 +32,21 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
    <a href = "mailto:alexsa.tecnolog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
  <p  class="copyright">Desenvolvido por Alexsandra Tavares </a>©</p >
 </div>
+<table align="right">
+ <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="https://i.imgur.com/0AUV6Hy.png" height="16 align="center">  Português</a></td></tr>
+</table>
+  
+  [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400" />](https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)
+    
+<div>  
+  <h4 align="right"> Visitors </h4>
+  <img align="right" src="https://profile-counter.glitch.me/alexsabrasil/count.svg">
+</div> 
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
  
+</div>
  
  
