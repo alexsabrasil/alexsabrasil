@@ -30,7 +30,7 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
  <a href="https://www.youtube.com/channel/UCAEn5FHNuWA1BE0E3rivVLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
    <a href = "mailto:alexsa.tecnolog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
- <p  class="copyright">Desenvolvido por Alexsandra Tavares </a>©</p >
+ <p  class="copyright"></a>©</p >Desenvolvido por Alexsandra Silva | 2023
 </div>
 <table align="right">
  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
@@ -47,6 +47,6 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
 
 ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
  
  
