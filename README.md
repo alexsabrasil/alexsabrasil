@@ -21,15 +21,18 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
  <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2023/02/03/aszOPS.logo-ale.png">
+<img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/>
+<img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
+   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="26" height="25"/>
+<img align="right" alt="Ale-pic" height="150" style="border-radius:50px;" src="https://i.im.ge/2023/02/03/aszOPS.logo-ale.png">
 <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
 <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
-<img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
-<img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
+
+
 
 </div>
   
