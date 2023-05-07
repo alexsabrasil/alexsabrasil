@@ -22,7 +22,9 @@ En formación en el curso de Front-End en Oracle Next Education (ONE) en Alura y
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
  
  
-
+<div>
+  <h3 align="center">habilidades blandas y herramientas:</h3>
+</div>
    
 <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -44,7 +46,10 @@ En formación en el curso de Front-End en Oracle Next Education (ONE) en Alura y
   
   ##
  
-<div> 
+<div>
+  <h3 align="center">Sígueme en las redes sociales:</h3>
+<p align="center">
+  
   <a href="https://www.linkedin.com/in/alexsatecnolog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
  <a href="https://www.youtube.com/channel/UCAEn5FHNuWA1BE0E3rivVLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
