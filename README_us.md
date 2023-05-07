@@ -68,7 +68,7 @@ In training in the Front-End course at Oracle Next Education (ONE) in Alura and 
    <br>
    <br>
 <div>  
-  <h4 align="right"> Visitas </h4>
+  <h4 align="right"> Visits </h4>
   <img align="right" src="https://profile-counter.glitch.me/alexsabrasil/count.svg">
 </div> 
 
