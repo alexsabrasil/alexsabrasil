@@ -1,11 +1,11 @@
-<h1 align="center">Olá, bem vindo! 👋</h1>
+<h1 align="center">¡Hola bienvenido! 👋</h1>
 
 ## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
-<h4 align="justify">Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.<br>
+<h4 align="justify">Soy desarrollador Front-End Jr. Ingeniera de datos autodidacta, actualmente estoy estudiando (Licenciatura) en Sistemas de Información en el Centro Universitário Unifatecie y terminé el bootcamp de Mujeres Ingenieras de Datos DataEX ON Demand, donde trabajé en la construcción de 1 NoteBook Data Pipeline con Azure Data Studio - habilidades de lenguaje SQL y T-SQL.<br>
 <br>
-Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e conquistei uma bolsa no Santander Brasil pela plataforma ADA Tech a formação em Coders Empenhada em evoluir e colaborar no desenvolvimento das pessoas e projetos, conhecendo novas tecnologias e me desafiando a cada projeto e praticando novos conhecimentos em tecnologia.</h4>  
+En formación en el curso de Front-End en Oracle Next Education (ONE) en Alura y gané una beca en Santander Brasil a través de la plataforma ADA Tech formación en Coders Comprometidos con evolucionar y colaborar en el desarrollo de personas y proyectos, aprendiendo sobre nuevas tecnologías y desafiándome a mí mismo en cada proyecto y practicando nuevos conocimientos en tecnología.</h4>  
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
@@ -75,8 +75,9 @@ Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e con
  
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-   <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
+   <p  class="copyright"></a>© Desarrollado por <strong>Alexsandra Silva</strong> | 2023</p>
 
 </div>
+
  
  
