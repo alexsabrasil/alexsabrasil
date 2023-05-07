@@ -22,7 +22,9 @@ Em formação no curso de Front-End na Oracle Next Education (ONE) e pela plataf
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
  
  
-
+<div>
+  <h3 align="center">Linguagens e Ferramentas:</h3>
+</div>
    
 <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,19 +34,20 @@ Em formação no curso de Front-End na Oracle Next Education (ONE) e pela plataf
 <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
    <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" width="26" height="25"/>
+<img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/>
 <img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 <img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
 <img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
- 
- 
+
 </div>
   
   ##
- 
-<div> 
+ <div>
+  <h3 align="center">Siga-me nas redes sociais: </h3>
+<p align="center">
+
   <a href="https://www.linkedin.com/in/alexsatecnolog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
  <a href="https://www.youtube.com/channel/UCAEn5FHNuWA1BE0E3rivVLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
