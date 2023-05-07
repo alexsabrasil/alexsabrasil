@@ -5,7 +5,7 @@
 
 <h4 align="justify">Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.<br>
 <br>
-Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e conquistei uma bolsa no Santander Brasil pela plataforma ADA Tech a formação em Coders Empenhada em evoluir e colaborar no desenvolvimento das pessoas e projetos, conhecendo novas tecnologias e me desafiando a cada projeto e praticando novos conhecimentos em tecnologia.</h4>  
+Em formação no curso de Front-End na Oracle Next Education (ONE) e pela plataforma da Alura,conquistei bolsas de estudos no Campinho Digital Curso AWS - Re/Start e Santander Coders Brasil na plataforma ADA Tech a formação em Coders e na Udemy o curso de Formação Microsoft Power BI Profissional e WoMakersCode - Mais Mulheres Tech - Full Stack com Azure SQL & Prisma. Empenhada em evoluir e colaborar no desenvolvimento das pessoas e projetos, conhecendo novas tecnologias e me desafiando a cada projeto e praticando novos conhecimentos em tecnologia.</h4>  
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
