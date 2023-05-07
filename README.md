@@ -1,13 +1,13 @@
-<h1 align="center">Olá, bemm vindo! 👋</h1>
+<h1 align="center">Olá, bem vindo! 👋</h1>
 
 ## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
-<p align="center" Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.
+<h4 align="justify">Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.
 
-Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e conquistei uma bolsa no Santander Brasil pela plataforma ADA Tech a formação em Coders Empenhada em evoluir e colaborar no desenvolvimento das pessoas e projetos, conhecendo novas tecnologias e me desafiando a cada projeto e praticando novos conhecimentos em tecnologia.</p>  
+Em formação no curso de Front-End na Oracle Next Education (ONE)na Alura e conquistei uma bolsa no Santander Brasil pela plataforma ADA Tech a formação em Coders Empenhada em evoluir e colaborar no desenvolvimento das pessoas e projetos, conhecendo novas tecnologias e me desafiando a cada projeto e praticando novos conhecimentos em tecnologia.</h4>  
 
-<div>
+<div align="center">
   <a href="https://github.com/alexsabrasil">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact&langs_count=7&theme=react" />
