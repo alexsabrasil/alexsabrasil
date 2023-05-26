@@ -13,7 +13,7 @@ Além disso, estou mergulhando no mundo da computação em nuvem, com experiênc
 
 E, é claro, não poderia deixar de mencionar minha expertise em HTML e CSS, que são fundamentais para criar layouts e estilizar páginas web de forma profissional.
 
-Estou animada para aprender mais e aplicar minhas habilidades em projetos desafiadores. Se você está procurando uma desenvolvedora em formação versátil e entusiasmado, estou pronta para embarcar nessa jornada com você.
+Estou animada para aprender mais e aplicar minhas habilidades em projetos desafiadores. Se você está procurando uma desenvolvedora em formação versátil e entusiasmada, estou pronta para embarcar nessa jornada com você.
 
 Muito obrigada pela atenção e estou à disposição para qualquer dúvida ou oportunidade de colaboração..</h4>  
 
