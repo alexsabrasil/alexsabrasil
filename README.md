@@ -3,9 +3,19 @@
 ## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
-<h4 align="justify">Sou uma desenvolvedora Front-End Jr. Engenheira de Dados autodidata, atualmente estou cursando (bacharelado) Sistema de Informação no Centro Universitário Unifatecie e finalizei o bootcamp Data Women Engineers DataEX ON Demand, onde trabalhei na construção de 1 Pipeline de Dados NoteBook com Azure Data Studio - Habilidades com a linguagem SQL e T-SQL.<br>
-<br>
-Em formação no curso de Front-End na Oracle Next Education (ONE) e pela plataforma da Alura,conquistei bolsas de estudos no Campinho Digital Curso AWS - Re/Start e Santander Coders Brasil na plataforma ADA Tech a formação em Coders e na Udemy o curso de Formação Microsoft Power BI Profissional e WoMakersCode - Mais Mulheres Tech - Full Stack com Azure SQL & Prisma. Empenhada em evoluir e colaborar no desenvolvimento das pessoas e projetos, conhecendo novas tecnologias e me desafiando a cada projeto e praticando novos conhecimentos em tecnologia.</h4>  
+<h4 align="justify">Bem-vindos(as)! Meu nome é Alexsandra Silva, e sou um desenvolvedora em formação apaixonada pela criação de soluções web. Estou me especializando em várias áreas, incluindo Fullstack, Front-End e Engenharia de Dados.
+
+Tenho conhecimentos em diversas linguagens de programação, como Python, JavaScript e PHP, permitindo-me desenvolver aplicativos web com diferentes abordagens. Além disso, domino SQL, que me possibilita trabalhar com bancos de dados e realizar consultas eficientes.
+
+Estou sempre em busca de novas tecnologias e ferramentas, e atualmente estou me aprofundando em Node.js e React. Com o Node.js, posso construir aplicativos do lado do servidor utilizando JavaScript, e o React me permite criar interfaces de usuário interativas e responsivas.
+
+Além disso, estou mergulhando no mundo da computação em nuvem, com experiência em Cloud, AWS e Azure. Essas plataformas oferecem recursos poderosos para hospedar e escalar aplicações web.
+
+E, é claro, não poderia deixar de mencionar minha expertise em HTML e CSS, que são fundamentais para criar layouts e estilizar páginas web de forma profissional.
+
+Estou animada para aprender mais e aplicar minhas habilidades em projetos desafiadores. Se você está procurando uma desenvolvedora em formação versátil e entusiasmado, estou pronta para embarcar nessa jornada com você.
+
+Muito obrigada pela atenção e estou à disposição para qualquer dúvida ou oportunidade de colaboração..</h4>  
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
