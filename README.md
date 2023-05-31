@@ -3,7 +3,7 @@
 ## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
-<h4 align="justify">Bem-vindos(as)! Sou de Recife, Pernambuco. Sempre fui fascinada pela área tecnológica e me apaixonei por informática desde criança. Devido à falta de oportunidades na área de TI, estudei pedagogia e trabalhei como professora e coordenadora de estágio por 15 anos.
+<h4 align="justify">Bem-vindos(as)! Me chamo Alexsandra, sou de Recife, Pernambuco. Sempre fui fascinada pela área tecnológica e me apaixonei por informática desde criança. Devido à falta de oportunidades na área de TI, estudei pedagogia e trabalhei como professora e coordenadora de estágio por 15 anos.
 
 Depois disso, participei do Programa Paulo Freire e trabalhei com mobilização social. Em seguida, atuei como técnica social e pedagoga no Centro de Referência de Serviço Social (CRAS) no Cabo de Santo Agostinho. Durante esse período, também fiz cursos de TI, participei de bootcamps e programas de formação em tecnologia.
 
