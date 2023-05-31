@@ -3,19 +3,13 @@
 ## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
-<h4 align="justify">Bem-vindos(as)! Meu nome é Alexsandra Silva, e sou um desenvolvedora em formação apaixonada pela criação de soluções web. Estou me especializando em várias áreas, incluindo Fullstack, Front-End e Engenharia de Dados.
+<h4 align="justify">Bem-vindos(as)! Sou de Recife, Pernambuco. Sempre fui fascinada pela área tecnológica e me apaixonei por informática desde criança. Devido à falta de oportunidades na área de TI, estudei pedagogia e trabalhei como professora e coordenadora de estágio por 15 anos.
 
-Tenho conhecimentos em diversas linguagens de programação, como Python, JavaScript e PHP, permitindo-me desenvolver aplicativos web com diferentes abordagens. Além disso, domino SQL, que me possibilita trabalhar com bancos de dados e realizar consultas eficientes.
+Depois disso, participei do Programa Paulo Freire e trabalhei com mobilização social. Em seguida, atuei como técnica social e pedagoga no Centro de Referência de Serviço Social (CRAS) no Cabo de Santo Agostinho. Durante esse período, também fiz cursos de TI, participei de bootcamps e programas de formação em tecnologia.
 
-Estou sempre em busca de novas tecnologias e ferramentas, e atualmente estou me aprofundando em Node.js e React. Com o Node.js, posso construir aplicativos do lado do servidor utilizando JavaScript, e o React me permite criar interfaces de usuário interativas e responsivas.
+Atualmente, estou estudando sistema de informação,   possuo pouco conhecimentos em linguagens como Python, SQL, JavaScript, PHP e HTML.
 
-Além disso, estou mergulhando no mundo da computação em nuvem, com experiência em Cloud, AWS e Azure. Essas plataformas oferecem recursos poderosos para hospedar e escalar aplicações web.
-
-E, é claro, não poderia deixar de mencionar minha expertise em HTML e CSS, que são fundamentais para criar layouts e estilizar páginas web de forma profissional.
-
-Estou animada para aprender mais e aplicar minhas habilidades em projetos desafiadores. Se você está procurando uma desenvolvedora em formação versátil e entusiasmada, estou pronta para embarcar nessa jornada com você.
-
-Muito obrigada pela atenção e estou à disposição para qualquer dúvida ou oportunidade de colaboração..</h4>  
+Acredito que a minha experiência na área de educação pode ser aplicada à tecnologia, pois valoriza a adaptabilidade. Sou uma pessoa curiosa, organizada, determinada, focada e empenhada em evoluir e colaborar no desenvolvimento de pessoas e projetos. Estou sempre em busca de conhecimento.</h4>  
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
