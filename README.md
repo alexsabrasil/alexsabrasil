@@ -3,7 +3,7 @@
 ## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
 
 
-<h4 align="justify">Sou de Recife, Pernambuco. Desde de criança me apaixonada pela informática, por ausência de oportunidades na área de tecnológica, estudei pedagogia, e me especializei em neuropsicopedagogia em seguida trabalhei como professora e coordenadora de estágio por 15 anos.
+<h4 align="justify">Sou de Recife, Pernambuco. Desde de criança me apaixonei pela informática, por ausência de oportunidades na área de tecnológica, estudei pedagogia, e me especializei em neuropsicopedagogia em seguida trabalhei como professora e coordenadora de estágio por 15 anos.
 
 Logo após, participei do programa Paulo Freire trabalhando como assistente de mobilização social. Posteriomente, atuei como técnica social e pedagoga no Centro de Referência de Serviço Social (CRAS) no Cabo de Santo Agostinho. Durante esse período, procurei enriquecer meus conhecimentos em cursos de TI, participei de bootcamps e programas de formação em tecnologia.
 
