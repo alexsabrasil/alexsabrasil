@@ -4,7 +4,7 @@
 
 <h4 align="justify">Neuropsychopedagoga vio en la programación y la computación en la nube una oportunidad para la innovación y la transformación.</h4> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+Mi+nombre+is+Alexsandra+Silva;Tengo+46+años;Soy+de+Brasil;Soy+un+desarrollador+Front-End;Entusiasta+de+la+Tecnología;Se+Bienvenido!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HOLA,+Mi+nombre+es+Alexsandra+Silva;Tengo+46+años;Soy+de+Brasil;Soy+un+desarrollador+Front-End;Entusiasta+de+la+Tecnología;Se+Bienvenido!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
