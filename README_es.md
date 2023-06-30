@@ -1,11 +1,11 @@
-<h1 align="center">¡Hola bienvenido! 👋</h1>
+## <h1 align="center">¡Hola bienvenido! 😁👋</h1>
 
-## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
+<h4 align="justify">Neuropsychopedagoga vio en la programación y la computación en la nube una oportunidad para la innovación y la transformación.</h4> 
 
-<h4 align="justify">Soy desarrollador Front-End Jr. Ingeniera de datos autodidacta, actualmente estoy estudiando (Licenciatura) en Sistemas de Información en el Centro Universitário Unifatecie y terminé el bootcamp de Mujeres Ingenieras de Datos DataEX ON Demand, donde trabajé en la construcción de 1 NoteBook Data Pipeline con Azure Data Studio - habilidades de lenguaje SQL y T-SQL.<br>
-<br>
-En formación en el curso de Front-End en Oracle Next Education (ONE) en Alura y gané una beca en Santander Brasil a través de la plataforma ADA Tech formación en Coders Comprometidos con evolucionar y colaborar en el desarrollo de personas y proyectos, aprendiendo sobre nuevas tecnologías y desafiándome a mí mismo en cada proyecto y practicando nuevos conocimientos en tecnología.</h4>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexsandra+Silva;I'm+46+years+old;I'm+from+Brazil;I´m+Front-End+Dev;Technology+Enthusiast;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
