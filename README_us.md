@@ -1,11 +1,12 @@
-<h1 align="center">Hello, welcome! 👋</h1>
+## <h1 align="center">Hello World! 😁👋</h1>
 
-## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+
+<h4 align="justify">Neuropsychopedagoga he saw in the programming and cloud computing an opportunity for innovation and transformation.</h4> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexsandra+Silva;I'm+46+years+old;I'm+from+Brazil;I´m+Front-End+Dev;Technology+Enthusiast;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<h4 align="justify">I'm a Front-End Jr developer. Self-taught Data Engineer, I am currently studying (Bachelor) Information System at Centro Universitário Unifatecie and I finished the Data Women Engineers DataEX ON Demand bootcamp, where I worked on building 1 NoteBook Data Pipeline with Azure Data Studio - SQL language skills and T-SQL.<br>
-<br>
-In training in the Front-End course at Oracle Next Education (ONE) in Alura and I won a scholarship at Santander Brasil through the ADA Tech platform training in Coders Committed to evolving and collaborating in the development of people and projects, learning about new technologies and challenging myself each project and practicing new knowledge in technology.</h4>  
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
