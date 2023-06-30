@@ -1,21 +1,11 @@
-<h1 align="center">Olá, bem vindo(a)! 👋</h1>
 
-## <img align="center" width="950" height="280" src="https://i.ibb.co/6JDmH7X/banner-2.png" alt="banner-2" border="0">
+## <h1 align="center">Hello World! 😁👋</h1>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
-<h4 align="justify">Sou de Recife, Pernambuco. Desde de criança me apaixonei pela informática, por ausência de oportunidades na área de tecnológica, estudei pedagogia, e me especializei em neuropsicopedagogia em seguida trabalhei como professora e coordenadora de estágio por 15 anos.
+<h4 align="justify">Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação.</h4> 
 
-Logo após, participei do programa Paulo Freire trabalhando como assistente de mobilização social. Posteriomente, atuei como técnica social e pedagoga no Centro de Referência de Serviço Social (CRAS) no Cabo de Santo Agostinho. Durante esse período, procurei enriquecer meus conhecimentos em cursos de TI, participei de bootcamps e programas de formação em tecnologia.
-
-Atualmente, estou estudando sistema de informação, possuo conhecimentos em linguagens como Python, SQL, JavaScript, PHP e HTML.
-
-Acredito que a minha experiência na área de educação pode ser aplicada à tecnologia, pois valoriza a adaptabilidade.
-
-Me defino como uma pessoa curiosa, organizada, determinada, focada e empenhada em evoluir e colaborar no desenvolvimento de pessoas e projetos.
-
-Estou sempre em busca de conhecimento, gosto de compartilhar conteúdos interessantes e apaixonantes, espero que você aprenda bastante com eles.
-
-</h4>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexsandra+Silva;I'm+46+years+old;I'm+from+Brazil;I´m+Front-End+Dev;Technology+Enthusiast;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
