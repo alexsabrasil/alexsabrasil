@@ -1,11 +1,13 @@
 
-## <h1 align="center">Hello World! 😁👋</h1>
+## <h1 align="center">Olá, Mundo! 😁👋</h1>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
+
 <h4 align="justify">Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação.</h4> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexsandra+Silva;I'm+46+years+old;I'm+from+Brazil;I´m+Front-End+Dev;Technology+Enthusiast;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexsandra+Silva;Tenho+46+anos;+Brasileira;Desenvolvedora+Front-End;Entusiasta+da+Tecnologia;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/alexsabrasil">
