@@ -79,7 +79,7 @@
 
  
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/alexsabrasil/alexsabrasil/blob/output/github-contribution-grid-snake.svg)
    <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
 
 </div>
