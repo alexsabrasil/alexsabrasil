@@ -9,11 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexsandra+Silva;Tenho+46+anos;+Brasileira;Desenvolvedora+Full-Stack;Entusiasta+da+Tecnologia;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/alexsabrasil">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact&langs_count=7&theme=react" />
- </div>
+
   
   ## 
   
