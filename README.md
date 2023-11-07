@@ -9,16 +9,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexsandra+Silva;Tenho+46+anos;+Brasileira;Desenvolvedora+Full-Stack;Entusiasta+da+Tecnologia;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
+###
 
-  
-  ## 
-  
-  <div  align="center"> 
+<div  align="center"> 
   
  <div style="display: inline_block"><br>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexsabrasil&theme=radical&exclude_days=Sun%2CSat&card_width=496)](https://git.io/streak-stats)
- 
+
+ <div>
+  
+  ## 
+
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=radical">
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact">
+</div>
+
+ ##
  
 <div>
   <h3 align="center">Linguagens e Ferramentas:</h3>
@@ -75,7 +81,7 @@
 
 
 
-![Snake animation]([https://github.com/alexsabrasil/alexsabrasil/blob/output/github-contribution-grid-snake.svg])
+![Snake animat]([https://github.com/alexsabrasil/alexsabrasil/blob/output/github-contribution-grid-snake.svg])
    <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
 
 </div>
