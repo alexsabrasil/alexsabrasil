@@ -12,28 +12,29 @@
   
  <div style="display: inline_block"><br>
  
- <div>
+
 
 ##
   
-  ### :trophy: &nbsp;Meu status
+  ### 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsabrasil&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
+:trophy: &nbsp;Meu status
+<div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=radical">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact">
 </div>
 
- 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsabrasil&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-
-## 
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexsabrasil&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
 
 <div align="center">  
 <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
+
+ 
+
 
 ##
 
@@ -43,24 +44,24 @@
   <img src="https://nisarga.me/images/typing.gif" alt="Mulher programando" width="620px">
 </div>
 
-| **Perfil e Resiliência** | |
-| --- | --- |
-| :books: Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação | |
-| :heart: Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos | |
+| **Perfil e Resiliência** |
+| --- |
+| :books: Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação |
+| :heart: Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos |
 
-| **Cursos e Estudos** | |
-| --- | --- |
-| :man_student: Cursando Sistema de Informação e MBA Eng. de Software | |
-| :books: Curiosidades: Estudando Programação Web Full Stack, React, Node.js, C# | |
+| **Cursos e Estudos** |
+| --- |
+| :man_student: Cursando Sistema de Informação e MBA Eng. de Software |
+| :books: Curiosidades: Estudando Programação Web Full Stack, React, Node.js, C# |
 
-| **Foco** | |
-| --- | --- |
-| :dart: Foco na diversidade tecnológica | |
-| :computer: Compreendo que programar todos os dias é necessário | |
+| **Foco** |
+| --- |
+| :dart: Foco na diversidade tecnológica |
+| :computer: Compreendo que programar todos os dias é necessário |
 
-| **Interesses** | |
-| --- | --- |
-| :heart: Carinho pelo meu blog "Inclusão In Foco" - [Acesse aqui](https://alexsabrasil.github.io/blogInclusaoInfoco/) | |
+| **Interesses** |
+| --- |
+| :heart: Carinho pelo meu blog "Inclusão In Foco" - [Acesse aqui](https://alexsabrasil.github.io/blogInclusaoInfoco/) |
 
 
 
