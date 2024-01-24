@@ -4,7 +4,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Meu+NOME+é+Alexsandra+Silva;Tenho+47+anos;Eu+sou+de+Recife,+PE;+mãe+de+pet&#128021;;Sou+estudante+de+Sistema+de+Informação+,;+MBA+Engenharia+de+Software+e;+Especialista+Programação+Web+Full+Stack.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Meu+NOME+é+Alexsandra+Silva;Tenho+47+anos;Eu+sou+de+Recife,+PE;+mãe+de+pet&#128021;+e+atetla+amadora+5K🏃🏽‍♀️;Bacharelanda+em+Sistema+de+Informação+,;+MBA+Engenharia+de+Software+e;+Especializando-me+em+linguagens+Web.)](https://git.io/typing-svg)
+
 
 ###
 
@@ -46,8 +47,8 @@
 
 | **Perfil e Resiliência** |
 | --- |
-| :books: Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação |
-| :heart: Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos |
+| :books: Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação. |
+| :heart: Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos. |
 
 | **Cursos e Estudos** |
 | --- |
