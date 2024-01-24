@@ -39,23 +39,30 @@
 
 ### 👩‍💻 Sobre mim
 
-<div style="text-align: justify;">
-  <h4>Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação.</h4>
-  <h4>Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos.</h4>
+<div align="center">
+  <img src="https://nisarga.me/images/typing.gif" alt="Mulher programando" width="620px">
 </div>
 
-<img align="right" src="https://nisarga.me/images/typing.gif" alt="Mulher programando" width="320px">
+| **Perfil e Resiliência** | |
+| --- | --- |
+| :books: Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação | |
+| :heart: Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos | |
 
-**Cursos e Estudos:**
-- :man_student: Cursando Sistema de Informação e MBA Eng. de Software.
-- :books: Curiosidades: Estudando Programação Web Full Stack, React, Node.js, C#.
+| **Cursos e Estudos** | |
+| --- | --- |
+| :man_student: Cursando Sistema de Informação e MBA Eng. de Software | |
+| :books: Curiosidades: Estudando Programação Web Full Stack, React, Node.js, C# | |
 
-**Foco:**
-- :dart: Foco na diversidade tecnológica.
-- :computer: Compreendo que programar todos os dias é necessário.
+| **Foco** | |
+| --- | --- |
+| :dart: Foco na diversidade tecnológica | |
+| :computer: Compreendo que programar todos os dias é necessário | |
 
-**Interesses:**
-- :heart: Carinho pelo meu blog "Inclusão In Foco" - [Acesse aqui](https://alexsabrasil.github.io/blogInclusaoInfoco/).
+| **Interesses** | |
+| --- | --- |
+| :heart: Carinho pelo meu blog "Inclusão In Foco" - [Acesse aqui](https://alexsabrasil.github.io/blogInclusaoInfoco/) | |
+
+
 
 
 
