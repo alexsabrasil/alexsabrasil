@@ -1,13 +1,10 @@
 
-## <h1 align="center">Olá, Mundo! 😁👋</h1>
+## <h1 align="center">Olá <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px"> Bem vindo ao meu perfil!  </h1>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-
-
-<h4 align="justify">Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação.</h4> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Alexsandra+Silva;Tenho+46+anos;+Brasileira;Desenvolvedora+Full-Stack;Entusiasta+da+Tecnologia;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Meu+NOME+é+Alexsandra+Silva;Tenho+47+anos;Eu+sou+de+Recife,+PE;+mãe+de+pet&#128021;;Sou+estudante+de+Sistema+de+Informação+,;+MBA+Engenharia+de+Software+e;+Especialista+Programação+Web+Full+Stack.)](https://git.io/typing-svg)
 
 ###
 
@@ -15,40 +12,95 @@
   
  <div style="display: inline_block"><br>
  
-
  <div>
+
+##
   
-  ## 
+  ### :trophy: &nbsp;Meu status
 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=radical">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact">
 </div>
 
- ##
  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsabrasil&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
+
+## 
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
+<div align="center">  
+<a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+
+##
+
+### 👩‍💻 Sobre mim
+
+<div style="text-align: justify;">
+  <h4>Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação.</h4>
+  <h4>Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos.</h4>
+</div>
+
+<img align="right" src="https://nisarga.me/images/typing.gif" alt="Mulher programando" width="320px">
+
+**Cursos e Estudos:**
+- :man_student: Cursando Sistema de Informação e MBA Eng. de Software.
+- :books: Curiosidades: Estudando Programação Web Full Stack, React, Node.js, C#.
+
+**Foco:**
+- :dart: Foco na diversidade tecnológica.
+- :computer: Compreendo que programar todos os dias é necessário.
+
+**Interesses:**
+- :heart: Carinho pelo meu blog "Inclusão In Foco" - [Acesse aqui](https://alexsabrasil.github.io/blogInclusaoInfoco/).
+
+
+
+##
+
 <div>
-  <h3 align="center">Linguagens e Ferramentas:</h3>
+  <h3 align="center">Skills</h3>
 </div>
    
-<img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ale-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/>
-<img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
-   <img align="center" alt="Ale-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align = "center" src="https://i.imgur.com/5pIevzW.png" alt="git" width="35" height="35"/>
-<img align="center" alt="Ale-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align = "center" src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
-<img align = "center" src="https://i.imgur.com/nWOk023.png" alt="figma" width="38" height="38"/>
-<img align = "center" src="https://i.imgur.com/LgigRLh.png" alt="node" width="40" height="40"/>
-<img align = "center" src="https://i.imgur.com/ZNjQkom.png" alt="mysql" width="40" height="40"/>
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 </div>
   
-  ##
- <div>
+##
+
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Atom](https://img.shields.io/badge/-atom-0D1117?style=for-the-badge&logo=atom&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+  
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+##
+
+<div>
   <h3 align="center">Siga-me nas redes sociais: </h3>
 <p align="center">
 
@@ -56,12 +108,8 @@
  <a href="https://www.youtube.com/channel/UCAEn5FHNuWA1BE0E3rivVLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://www.instagram.com/alexsa.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
    <a href = "mailto:alexsa.tecnolog@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <br>
-  <br>
-  <bv>
-  <br>
-  <br>
-  <br>
+  <br><br>
+  
 </div>
 <table align="right">
  <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
@@ -72,16 +120,11 @@
    <br>
   <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="400"(https://open.spotify.com/playlist/7IVXdOt3tzeD5fA0fm1dlb?si=e4cf73dea85143c8&nd=1)/>
     
-   <br>
-   <br>
-<div>  
-  <h4 align="right"> Visitas </h4>
-  <img align="right" src="https://profile-counter.glitch.me/alexsabrasil/count.svg">
-</div> 
+   <br><br>
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MthAlvarez}/count.svg" /></p> 
+<br></div>
 
-
-
-![Snake animat]([https://github.com/alexsabrasil/alexsabrasil/blob/output/github-contribution-grid-snake.svg])
-   <p  class="copyright"></a>© Desenvolvido por <strong>Alexsandra Silva</strong> | 2023</p>
-
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
