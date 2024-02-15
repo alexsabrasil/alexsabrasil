@@ -1,10 +1,10 @@
 
-## <h1 align="center">Olá <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px"> Bem vindo ao meu perfil!  </h1>  
+## <h1 align="center">Hello <img src="https://www.emojiall.com/images/240/telegram/1f44b.gif" height="30px" width="30px"> Welcome to my profile!  </h1>  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Meu+NOME+é+Alexsandra+Silva;Tenho+47+anos;Eu+sou+de+Recife,+PE;+mãe+de+pet&#128021;+e+atetla+amadora+5K🏃🏽‍♀️;Bacharelanda+em+Sistema+de+Informação+,;+MBA+Engenharia+de+Software+e;+Especializando-me+em+linguagens+Web.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+My+NAME+is+Alexsandra+Tavares;I'm+47+years+old;I'm+from+Recife,+PE;+a+pet+mother&#128021;+and+an+amateur+5K🏃🏽‍♀️+athlete;Whit+a+bachelor's+degree+in+Information+de+System+,;+MBA+in+Software+Engineering+and;+Specializing+in+Web+languages.)](https://git.io/typing-svg)
 
 
 ###
