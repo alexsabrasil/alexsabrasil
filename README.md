@@ -20,7 +20,7 @@
   ### 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexsabrasil&theme=react&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
-:trophy: &nbsp;Meu status
+:trophy: &nbsp;My status
 <div>
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=alexsabrasil&show_icons=true&theme=radical">
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsabrasil&layout=compact">
@@ -39,30 +39,30 @@
 
 ##
 
-### 👩‍💻 Sobre mim
+### 👩‍💻 About me
 
 <div align="center">
   <img src="https://nisarga.me/images/typing.gif" alt="Mulher programando" width="620px">
 </div>
 
-| **Perfil e Resiliência** |
+| **Profile and Resilience** |
 | --- |
-| :books: Neuropsicopedagoga que viu na programação e computação em nuvem uma oportunidade de inovação e transformação. |
-| :heart: Em dado momento, surgiu a inspiração em criar uma página para falar um pouco da acessibilidade tecnológica e transtornos. |
+| :books: Neuropsychopedagogue who saw programming and cloud computing as an opportunity for innovation and transformation. |
+| :heart: At a certain point, the inspiration came to create a page to talk a little about technological accessibility and inconvenience. |
 
-| **Cursos e Estudos** |
+| **Courses and Studies** |
 | --- |
-| :man_student: Cursando Sistema de Informação e MBA Eng. de Software |
-| :books: Curiosidades: Estudando Programação Web Full Stack, React, Node.js, C# |
+| :man_student: Studying Information Systems and MBA Software Engineering |
+| :books: Curiosities: Studying Full Stack Web Programming, React, Node.js, C# |
 
-| **Foco** |
+| **Focus** |
 | --- |
-| :dart: Foco na diversidade tecnológica |
-| :computer: Compreendo que programar todos os dias é necessário |
+| :dart: Focus on technological diversity |
+| :computer: understand that programming every day is necessary |
 
-| **Interesses** |
+| **Interests** |
 | --- |
-| :heart: Carinho pelo meu blog "Inclusão In Foco" - [Acesse aqui](https://alexsabrasil.github.io/blogInclusaoInfoco/) |
+| :heart: Love for my blog "Inclusion In Foco " - [Access here](https://alexsabrasil.github.io/blogInclusaoInfoco/) |
 
 
 
@@ -110,7 +110,7 @@
 ##
 
 <div>
-  <h3 align="center">Siga-me nas redes sociais: </h3>
+  <h3 align="center">follow me on social media: </h3>
 <p align="center">
 
   <a href="https://www.linkedin.com/in/alexsatecnolog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
