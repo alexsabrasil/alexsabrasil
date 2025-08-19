@@ -4,8 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+My+NAME+is+Alexsandra+Tavares;I'm+47+years+old;I'm+from+Recife,+PE;+a+pet+mother&#128021;+and+an+amateur+5K🏃🏽‍♀️+athlete;Whit+a+bachelor's+degree+in+Information+de+System+,;+MBA+in+Software+Engineering+and;+Specializing+in+Web+languages.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+My+NAME+is+Alexsandra+Tavares;I'm+48+years+old;I'm+from+Recife,+PE;+a+pet+mother&#128021;+and+an+amateur+5K🏃🏽‍♀️+athlete;Whit+a+bachelor's+degree+in+Software+Engineering+and+Information+Security+student,;+currently+focusing+on+Blue_Team+Cibersecurity+in+addition+to+studying+backend+data+and+server;+Specializing+in+Web+languages.)](https://git.io/typing-svg)
 
 ###
 
