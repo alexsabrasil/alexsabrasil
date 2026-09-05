@@ -23,3 +23,12 @@ Tenho desenvolvido projetos envolvendo **Python, Docker, GitHub Actions, Jenkins
 Minha trajetória anterior em **Pedagogia e Psicopedagogia** acrescenta uma perspectiva interdisciplinar à tecnologia, especialmente na compreensão do **comportamento humano, aprendizagem, comunicação e fator humano em segurança**.
 
 **Objetivo profissional:** oportunidades em **Cybersecurity / Blue Team, Vulnerability Management, DevSecOps, DevOps e Software Engineering**, onde eu possa contribuir com segurança, automação e melhoria contínua de sistemas.
+
+Vulnerability Management
+OpenVAS / Greenbone
+DefectDojo
+Wazuh
+Nmap
+Wireshark
+Graylog
+Security Monitoring
