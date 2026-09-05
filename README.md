@@ -12,23 +12,50 @@
 
 </div>
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software** e **Segurança da Informação**, com atuação prática em projetos de **Cibersegurança, DevOps, automação e desenvolvimento com Python**.
+Sou estudante de **Engenharia de Software** e **Segurança da Informação**, com experiência prática em **Cibersegurança, Blue Team, Gestão de Vulnerabilidades, DevOps, automação e desenvolvimento com Python**.
 
-Minha experiência técnica inclui **Blue Team e Gestão de Vulnerabilidades**, construção de pipelines **CI/CD e DevSecOps**, conteinerização, observabilidade, Infrastructure as Code e automação de processos.
+Minha trajetória em segurança inclui a **Residência em Cibersegurança do Programa Hackers do Bem / RNP**, com atuação prática em Gestão de Vulnerabilidades e uso de ferramentas para identificação, análise, priorização, monitoramento e tratamento de riscos.
 
-Tenho desenvolvido projetos envolvendo **Python, Docker, GitHub Actions, Jenkins, Terraform, Prometheus, Grafana, Nexus, Linux e ferramentas de segurança**, buscando integrar segurança ao ciclo de desenvolvimento de software desde as etapas iniciais.
+Também desenvolvi experiência prática em **Pentest e coleta de informações**, aplicando técnicas e ferramentas de reconhecimento e análise em ambientes controlados e educacionais.
 
-Minha trajetória anterior em **Pedagogia e Psicopedagogia** acrescenta uma perspectiva interdisciplinar à tecnologia, especialmente na compreensão do **comportamento humano, aprendizagem, comunicação e fator humano em segurança**.
+Na Engenharia de Software e DevOps, venho construindo projetos envolvendo **CI/CD, DevSecOps, SAST, containers, Infrastructure as Code, observabilidade, gerenciamento de artefatos e automação**, buscando integrar segurança ao ciclo de desenvolvimento desde as etapas iniciais.
 
-**Objetivo profissional:** oportunidades em **Cybersecurity / Blue Team, Vulnerability Management, DevSecOps, DevOps e Software Engineering**, onde eu possa contribuir com segurança, automação e melhoria contínua de sistemas.
+Minha formação anterior em **Pedagogia e Psicopedagogia** acrescenta uma perspectiva interdisciplinar sobre **comportamento humano, aprendizagem, comunicação e fator humano em segurança**.
 
-Vulnerability Management
-OpenVAS / Greenbone
-DefectDojo
-Wazuh
-Nmap
-Wireshark
-Graylog
-Security Monitoring
+Também tenho interesse em **Geopolítica e Cibersegurança**, especialmente na compreensão de como contexto geopolítico, ameaças cibernéticas e tecnologia se relacionam no cenário global.
+
+## Cybersecurity & Blue Team
+
+**Áreas de atuação e experiência prática**
+
+- Vulnerability Management
+- Blue Team
+- Security Monitoring
+- Vulnerability Assessment
+- Pentest Fundamentals
+- Information Gathering & Reconnaissance
+- Log Analysis
+- Network Analysis
+- Security Automation
+- Human Factors in Cybersecurity
+
+
+
+## Tecnologia + Fator Humano
+
+Minha formação também passa por **Pedagogia e Psicopedagogia**, trazendo para minha atuação em tecnologia uma visão sobre comportamento humano, aprendizagem e comunicação.
+
+Em Cibersegurança, essa perspectiva se conecta especialmente ao **fator humano**, conscientização em segurança, comunicação de riscos e interação entre pessoas, processos e tecnologia.
+
+## 🐍 Contribution Snake
+
+.github/workflows/snake.yml
+
+## Vamos conversar?
+
+Estou aberta a oportunidades e conexões profissionais em **Cybersecurity, DevSecOps, DevOps e Software Engineering**.
+
+Se você está buscando uma profissional que combine **segurança, automação, engenharia de software e uma visão interdisciplinar sobre pessoas e tecnologia**, vamos conversar.
+
