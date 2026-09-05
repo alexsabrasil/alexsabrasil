@@ -12,7 +12,7 @@
 
 </div>
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de **Engenharia de Software** e **Segurança da Informação**, com experiência prática em **Cibersegurança, Blue Team, Gestão de Vulnerabilidades, DevOps, automação e desenvolvimento com Python**.
 
@@ -41,7 +41,24 @@ Também tenho interesse em **Geopolítica e Cibersegurança**, especialmente na 
 - Security Automation
 - Human Factors in Cybersecurity
 
+### 🔐 Security Tools
 
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+
+**Vulnerability & Security Operations:**  
+`Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog`
+
+**Network & Security Analysis:**  
+`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit`
+
+**Automation & Infrastructure:**  
+`Ansible` • `WSUS` • `Linux`
 
 ## Tecnologia + Fator Humano
 
