@@ -265,7 +265,15 @@ Esse interesse amplia minha compreensão da Cibersegurança para além das ferra
 
 ## 🐍 Contribution Snake
 
-.github/workflows/snake.yml
+---
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexsabrasil/alexsabrasil/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexsabrasil/alexsabrasil/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/alexsabrasil/alexsabrasil/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
