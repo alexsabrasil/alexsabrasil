@@ -263,8 +263,6 @@ Também acompanho temas relacionados a **Geopolítica, Segurança Internacional 
 
 Esse interesse amplia minha compreensão da Cibersegurança para além das ferramentas técnicas, considerando também o **contexto estratégico em que ameaças, riscos e decisões de segurança acontecem**.
 
-## 🐍 Contribution Snake
-
 ---
 
 ## GitHub Activity
