@@ -11,3 +11,15 @@
 </p>
 
 </div>
+
+## Sobre mim
+
+Sou estudante de **Engenharia de Software** e **Segurança da Informação**, com atuação prática em projetos de **Cibersegurança, DevOps, automação e desenvolvimento com Python**.
+
+Minha experiência técnica inclui **Blue Team e Gestão de Vulnerabilidades**, construção de pipelines **CI/CD e DevSecOps**, conteinerização, observabilidade, Infrastructure as Code e automação de processos.
+
+Tenho desenvolvido projetos envolvendo **Python, Docker, GitHub Actions, Jenkins, Terraform, Prometheus, Grafana, Nexus, Linux e ferramentas de segurança**, buscando integrar segurança ao ciclo de desenvolvimento de software desde as etapas iniciais.
+
+Minha trajetória anterior em **Pedagogia e Psicopedagogia** acrescenta uma perspectiva interdisciplinar à tecnologia, especialmente na compreensão do **comportamento humano, aprendizagem, comunicação e fator humano em segurança**.
+
+**Objetivo profissional:** oportunidades em **Cybersecurity / Blue Team, Vulnerability Management, DevSecOps, DevOps e Software Engineering**, onde eu possa contribuir com segurança, automação e melhoria contínua de sistemas.
