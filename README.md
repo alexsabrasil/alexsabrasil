@@ -63,6 +63,25 @@ Experiência prática em laboratórios controlados de segurança ofensiva, envol
 **Automation & Infrastructure:**  
 `Ansible` • `WSUS` • `Linux`
 
+## ⚙️ DevOps & DevSecOps
+
+Experiência prática na construção de ambientes e pipelines envolvendo **CI/CD, containerização, análise estática de segurança, Infrastructure as Code, gerenciamento de artefatos e observabilidade**.
+
+**CI/CD & Version Control**  
+`Git` • `GitHub` • `GitHub Actions` • `GitLab CI/CD` • `Jenkins`
+
+**Containers & Infrastructure**  
+`Docker` • `Docker Compose` • `Docker Hub` • `Terraform` • `LocalStack`
+
+**DevSecOps & Artifact Management**  
+`SAST` • `Nexus Repository` • `Quality Gates`
+
+**Observability**  
+`Prometheus` • `Grafana`
+
+**Environment**  
+`Linux` • `Shell`
+
 ## Tecnologia + Fator Humano
 
 Minha formação também passa por **Pedagogia e Psicopedagogia**, trazendo para minha atuação em tecnologia uma visão sobre comportamento humano, aprendizagem e comunicação.
