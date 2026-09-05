@@ -205,6 +205,28 @@ Experiência prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo
 **Tecnologias e ferramentas:**  
 `Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
 
+---
+
+## 🎓 Formação & Desenvolvimento Profissional
+
+🎓 **Engenharia de Software**  
+Formação acadêmica em andamento com foco em desenvolvimento, arquitetura, qualidade e ciclo de vida de software.
+
+🔐 **Segurança da Informação**  
+Formação acadêmica em andamento com foco em proteção de sistemas, redes, riscos e segurança cibernética.
+
+🛡️ **Residência em Cibersegurança | Hackers do Bem • RNP**  
+Experiência prática com **Blue Team e Gestão de Vulnerabilidades**, incluindo identificação, análise, priorização, monitoramento e tratamento de vulnerabilidades.
+
+⚙️ **Formação prática em DevOps**  
+Projetos envolvendo **CI/CD, DevSecOps, Docker, Jenkins, Terraform, Nexus, Prometheus, Grafana e automação**.
+
+🐍 **Backend Python com Django**  
+Desenvolvimento backend, Python e construção de aplicações web.
+
+🧠 **Pedagogia & Psicopedagogia**  
+Background interdisciplinar aplicado à compreensão de **comportamento humano, aprendizagem, comunicação e fator humano em tecnologia**.
+
 ## 🌎 Geopolítica & Cybersecurity
 
 Também acompanho temas relacionados a **Geopolítica, Segurança Internacional e Cibersegurança**, com interesse na relação entre tecnologia, ameaças cibernéticas, conflitos, infraestrutura crítica e o contexto geopolítico global.
