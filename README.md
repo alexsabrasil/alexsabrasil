@@ -28,19 +28,22 @@ Também tenho interesse em **Geopolítica e Cibersegurança**, especialmente na 
 
 ## Cybersecurity & Blue Team
 
-**Áreas de atuação e experiência prática**
+### Vulnerability Management | Hackers do Bem • RNP
 
-- Vulnerability Management
-- Blue Team
-- Security Monitoring
-- Vulnerability Assessment
-- Pentest Fundamentals
-- Information Gathering & Reconnaissance
-- Log Analysis
-- Network Analysis
-- Security Automation
-- Human Factors in Cybersecurity
+Experiência prática em identificação, análise, classificação, priorização e acompanhamento de vulnerabilidades, incluindo análise baseada em **CVE/CVSS**, monitoramento de segurança e automação de atividades operacionais.
 
+**Ferramentas:**  
+`Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
+
+### ⚔️ Pentest & Offensive Security Labs
+
+Experiência prática em laboratórios controlados de segurança ofensiva, envolvendo **Information Gathering, Reconnaissance, Enumeration, análise HTTP, testes de aplicações Web e pesquisa de vulnerabilidades**.
+
+**Ferramentas e ambientes:**  
+`Kali Linux` • `Nmap` • `Burp Suite` • `Metasploit` • `Wireshark` • `Nikto` • `SQLMap` • `Gobuster` • `Hydra`
+
+**Web Security:**  
+`OWASP` • `PortSwigger Web Security Academy` • `Burp Proxy` • `Repeater` • `Intruder` • `Decoder`
 ### 🔐 Security Tools
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
