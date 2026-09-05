@@ -267,9 +267,13 @@ Esse interesse amplia minha compreensão da Cibersegurança para além das ferra
 
 .github/workflows/snake.yml
 
+---
+
 ## Vamos conversar?
 
-Estou aberta a oportunidades e conexões profissionais em **Cybersecurity, DevSecOps, DevOps e Software Engineering**.
+Estou aberta a oportunidades em **Cybersecurity, Blue Team, Vulnerability Management, DevSecOps, DevOps e Software Engineering**.
 
-Se você está buscando uma profissional que combine **segurança, automação, engenharia de software e uma visão interdisciplinar sobre pessoas e tecnologia**, vamos conversar.
+Busco contribuir em ambientes onde possa aplicar **segurança, automação e engenharia de software** na construção e evolução de soluções confiáveis.
+
+[LinkedIn](SEU-LINK) • [E-mail](mailto:SEU-EMAIL) • [GitHub](https://github.com/alexsabrasil)
 
