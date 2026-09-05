@@ -83,6 +83,104 @@ Experiência prática na construção de ambientes e pipelines envolvendo **CI/C
 **Environment**  
 `Linux` • `Shell`
 
+---
+
+## Projetos em Destaque
+
+Projetos selecionados que demonstram minha experiência prática em **Cybersecurity, DevSecOps, DevOps, Observability, Python e automação**.
+
+### Dashboard de Gestão de Vulnerabilidades
+
+**Cybersecurity • Vulnerability Management • Python • Data Analysis**
+
+Solução desenvolvida para apoiar processos de **Gestão de Vulnerabilidades**, permitindo consolidar, analisar e priorizar vulnerabilidades com base em severidade e risco.
+
+O projeto transforma dados técnicos de segurança em informações visuais para apoiar **análise, priorização e tomada de decisão**.
+
+**Tecnologias:**  
+`Python` • `Streamlit` • `Pandas` • `Plotly` • `CVSS`
+
+🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/dashboard-vulnerabilidades)
+
+---
+
+### CI/CD Pipeline Rescue | TechExpress
+
+**DevOps • CI/CD • Quality Gates • Docker • Automation**
+
+Esteira CI/CD desenvolvida para substituir um cenário de **deploy manual sujeito a falhas**, automatizando validações antes da chegada do software à produção.
+
+A solução implementa conceitos de **Fail Fast**, testes automatizados, cobertura de código, análise estática, containerização, validação em staging e controle da implantação em produção.
+
+**Tecnologias e práticas:**  
+`GitHub Actions` • `Docker` • `Node.js` • `Jest` • `ESLint` • `SAST` • `Quality Gates`
+
+🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/cicd-pipeline-rescue)
+
+---
+
+### DevOps & Observabilidade
+
+**Observability • Monitoring • Containers • Infrastructure as Code**
+
+Ambiente desenvolvido para integrar aplicação, banco de dados e ferramentas de observabilidade, permitindo acompanhar a saúde da aplicação e suas métricas.
+
+O laboratório implementa o fluxo:
+
+`Application → Metrics → Prometheus → Grafana`
+
+com infraestrutura e serviços executados em ambiente conteinerizado.
+
+**Tecnologias:**  
+`Docker` • `Docker Compose` • `Prometheus` • `Grafana` • `Terraform` • `PostgreSQL` • `LocalStack`
+
+🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/desafio-devops-observabilidade)
+
+---
+
+### Analisador de Contas Médicas
+
+**Python • Data Analysis • Automation • Business Rules**
+
+Aplicação desenvolvida para automatizar o processamento e a análise de contas médicas, desde a extração de informações de documentos até a aplicação de regras de negócio e geração de visualizações e relatórios.
+
+Entre as funcionalidades estão **extração e categorização de dados, auditoria de inconsistências, aplicação de regras de reajuste, dashboards interativos e exportação de resultados**.
+
+**Tecnologias:**  
+`Python` • `Streamlit` • `Pandas` • `Plotly` • `PyPDF2` • `python-docx`
+
+🔒 **Repositório em revisão para publicação no portfólio**
+
+---
+
+### 🔐 Delivery API Automation
+
+**DevSecOps • SAST • CI/CD • Automated Testing**
+
+Pipeline de automação integrando validações de qualidade e segurança ao ciclo de desenvolvimento de uma API.
+
+O projeto utiliza **análise estática de segurança (SAST)** juntamente com lint e testes automatizados, aplicando princípios de **DevSecOps e Shift Left Security**.
+
+**Tecnologias:**  
+`GitHub Actions` • `Node.js` • `Jest` • `ESLint` • `njsscan`
+
+🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/delivery-api-automation)
+
+---
+
+### Nexus NPM Proxy Lab
+
+**Artifact Management • Dependency Management • DevOps**
+
+Laboratório de gerenciamento de dependências utilizando o **Sonatype Nexus Repository Manager como proxy para o registro NPM**.
+
+A implementação demonstra cache local de dependências, redução de acessos repetidos ao registro público e maior controle e resiliência no gerenciamento de artefatos.
+
+**Tecnologias:**  
+`Nexus Repository` • `Docker` • `Node.js` • `NPM`
+
+🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/nexus-npm-proxy-lab)
+
 ## Tecnologia + Fator Humano
 
 Minha formação também passa por **Pedagogia e Psicopedagogia**, trazendo para minha atuação em tecnologia uma visão sobre comportamento humano, aprendizagem e comunicação.
