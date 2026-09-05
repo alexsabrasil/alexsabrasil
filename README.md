@@ -60,8 +60,9 @@ Experiência prática em laboratórios controlados de segurança ofensiva, envol
 **Network & Security Analysis:**  
 `Nmap` • `Wireshark` • `Burp Suite` • `Metasploit`
 
-**Automation & Infrastructure:**  
-`Ansible` • `WSUS` • `Linux`
+**Containers & Orchestration:**
+
+`Docker` • `Docker Compose` • `Kubernetes`
 
 ## ⚙️ DevOps & DevSecOps
 
