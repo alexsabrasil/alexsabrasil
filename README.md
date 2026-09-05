@@ -66,6 +66,24 @@ Minha formação também passa por **Pedagogia e Psicopedagogia**, trazendo para
 
 Em Cibersegurança, essa perspectiva se conecta especialmente ao **fator humano**, conscientização em segurança, comunicação de riscos e interação entre pessoas, processos e tecnologia.
 
+## Experiência Prática em Cibersegurança
+
+### Residência em Cibersegurança | Hackers do Bem • RNP
+
+Experiência prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo atividades de identificação, análise, priorização e acompanhamento de vulnerabilidades em ambientes de laboratório.
+
+**Principais competências aplicadas:**
+
+- Vulnerability Assessment & Management
+- Análise e priorização baseada em risco
+- Monitoramento e análise de segurança
+- Gestão e acompanhamento de vulnerabilidades
+- Automação de atividades operacionais
+- Documentação técnica e comunicação de riscos
+
+**Tecnologias e ferramentas:**  
+`Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
+
 ## 🐍 Contribution Snake
 
 .github/workflows/snake.yml
