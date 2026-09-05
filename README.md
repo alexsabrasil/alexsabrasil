@@ -205,9 +205,11 @@ Experiência prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo
 **Tecnologias e ferramentas:**  
 `Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
 
-## 🌎 Beyond the Code
+## 🌎 Geopolítica & Cybersecurity
 
-Além da tecnologia, acompanho temas relacionados a **Geopolítica, Cibersegurança e comportamento humano**, buscando compreender como fatores tecnológicos, sociais e geopolíticos influenciam riscos, ameaças e decisões no ambiente digital.
+Também acompanho temas relacionados a **Geopolítica, Segurança Internacional e Cibersegurança**, com interesse na relação entre tecnologia, ameaças cibernéticas, conflitos, infraestrutura crítica e o contexto geopolítico global.
+
+Esse interesse amplia minha compreensão da Cibersegurança para além das ferramentas técnicas, considerando também o **contexto estratégico em que ameaças, riscos e decisões de segurança acontecem**.
 
 ## 🐍 Contribution Snake
 
