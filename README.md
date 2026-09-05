@@ -84,6 +84,10 @@ Experiência prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo
 **Tecnologias e ferramentas:**  
 `Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
 
+## 🌎 Beyond the Code
+
+Além da tecnologia, acompanho temas relacionados a **Geopolítica, Cibersegurança e comportamento humano**, buscando compreender como fatores tecnológicos, sociais e geopolíticos influenciam riscos, ameaças e decisões no ambiente digital.
+
 ## 🐍 Contribution Snake
 
 .github/workflows/snake.yml
