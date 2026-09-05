@@ -207,6 +207,36 @@ Experiência prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo
 
 ---
 
+## Geopolítica & Cybersecurity
+
+Também acompanho temas relacionados a **Geopolítica, Segurança Internacional e Cibersegurança**, com interesse em compreender como tecnologia, ameaças cibernéticas, conflitos e infraestrutura crítica se relacionam no cenário global.
+
+Esse interesse amplia minha visão sobre segurança para além das ferramentas técnicas, considerando também o **contexto estratégico em que riscos, ameaças e decisões de segurança acontecem**.
+
+---
+
+## Formação & Desenvolvimento Profissional
+
+**Engenharia de Software**  
+Formação acadêmica em andamento, com foco em desenvolvimento, arquitetura, qualidade e ciclo de vida de software.
+
+**Segurança da Informação**  
+Formação acadêmica em andamento, com foco em proteção de sistemas, redes, riscos e segurança cibernética.
+
+**Residência em Cibersegurança | Hackers do Bem • RNP**  
+Formação prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo identificação, análise, priorização, monitoramento e tratamento de vulnerabilidades.
+
+**DevOps**  
+Formação prática com projetos envolvendo **CI/CD, DevSecOps, Docker, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Nexus, Prometheus, Grafana, observabilidade e automação**.
+
+**Backend Python com Django**  
+Desenvolvimento backend com Python, Django, APIs e fundamentos de engenharia de software.
+
+**Pedagogia & Psicopedagogia**  
+Background interdisciplinar aplicado à compreensão de **comportamento humano, aprendizagem, comunicação e fator humano em tecnologia e segurança**.
+
+---
+
 ## 🎓 Formação & Desenvolvimento Profissional
 
 🎓 **Engenharia de Software**  
