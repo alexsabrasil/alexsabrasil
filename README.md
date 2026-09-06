@@ -236,3 +236,13 @@ Estou aberta a oportunidades em **Cybersecurity, Blue Team, Vulnerability Manage
 Busco contribuir em ambientes onde possa aplicar **segurança, automação e engenharia de software** na construção e evolução de soluções confiáveis.
 
 <!-- Contatos serão adicionados após validação do LinkedIn e e-mail profissional -->
+
+---
+
+## Uso do conteúdo
+
+O conteúdo original deste perfil, incluindo sua estrutura, textos e elementos de apresentação, é de autoria de **Alexsandra Tavares**.
+
+A reutilização, adaptação ou reprodução deste conteúdo para outros projetos, perfis ou publicações requer autorização prévia da autora.
+
+© 2026 Alexsandra Tavares. Todos os direitos reservados.
