@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Engineering+secure+solutions...;Automating+software+delivery...;Monitoring.+Analyzing.+Protecting.;Cybersecurity+%7C+DevOps+%7C+Python" alt="Typing SVG" />
 
-<h1>Olá, eu sou Alexsandra Tavares 👋</h1>
+<h1>Olá, eu sou Alexsandra Tavares</h1>
 
 <h3>Software Engineering | Cybersecurity | DevOps | Python</h3>
 
@@ -11,6 +11,8 @@
 </p>
 
 </div>
+
+---
 
 ## Sobre mim
 
@@ -26,6 +28,8 @@ Minha formação anterior em **Pedagogia e Psicopedagogia** acrescenta uma persp
 
 Também tenho interesse em **Geopolítica e Cibersegurança**, especialmente na compreensão de como contexto geopolítico, ameaças cibernéticas e tecnologia se relacionam no cenário global.
 
+---
+
 ## Cybersecurity & Blue Team
 
 ### Vulnerability Management | Hackers do Bem • RNP
@@ -35,16 +39,12 @@ Experiência prática em identificação, análise, classificação, priorizaç�
 **Ferramentas:**  
 `Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
 
-### ⚔️ Pentest & Offensive Security Labs
+### Pentest & Offensive Security Labs
 
 Experiência prática em laboratórios controlados de segurança ofensiva, envolvendo **Information Gathering, Reconnaissance, Enumeration, análise HTTP, testes de aplicações Web e pesquisa de vulnerabilidades**.
 
 **Ferramentas e ambientes:**  
-`Kali Linux` • `Nmap` • `Burp Suite` • `Metasploit` • `Wireshark` • `Nikto` • `SQLMap` • `Gobuster` • `Hydra`
-
-**Web Security:**  
-`OWASP` • `PortSwigger Web Security Academy` • `Burp Proxy` • `Repeater` • `Intruder` • `Decoder`
-### 🔐 Security Tools
+`Kali Linux` • `Nikto` • `SQLMap` • `Gobuster` • `Hydra`
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge)
@@ -54,17 +54,13 @@ Experiência prática em laboratórios controlados de segurança ofensiva, envol
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
 
-**Vulnerability & Security Operations:**  
-`Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog`
 
-**Network & Security Analysis:**  
-`Nmap` • `Wireshark` • `Burp Suite` • `Metasploit`
+**Web Security:**  
+`OWASP` • `PortSwigger Web Security Academy` • `Burp Proxy` • `Repeater` • `Intruder` • `Decoder`
 
-**Containers & Orchestration:**
+---
 
-`Docker` • `Docker Compose` • `Kubernetes`
-
-## ⚙️ DevOps & DevSecOps
+## DevOps & DevSecOps
 
 Experiência prática na construção de ambientes e pipelines envolvendo **CI/CD, containerização, análise estática de segurança, Infrastructure as Code, gerenciamento de artefatos e observabilidade**.
 
@@ -80,7 +76,7 @@ Experiência prática na construção de ambientes e pipelines envolvendo **CI/C
 **Observability**  
 `Prometheus` • `Grafana`
 
-**Environment**  
+**Systems & Automation**  
 `Linux` • `Shell`
 
 ---
@@ -100,7 +96,7 @@ O projeto transforma dados técnicos de segurança em informações visuais para
 **Tecnologias:**  
 `Python` • `Streamlit` • `Pandas` • `Plotly` • `CVSS`
 
-🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/dashboard-vulnerabilidades)
+[Ver projeto no GitHub](https://github.com/alexsabrasil/dashboard-vulnerabilidades)
 
 ---
 
@@ -115,7 +111,7 @@ A solução implementa conceitos de **Fail Fast**, testes automatizados, cobertu
 **Tecnologias e práticas:**  
 `GitHub Actions` • `Docker` • `Node.js` • `Jest` • `ESLint` • `SAST` • `Quality Gates`
 
-🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/cicd-pipeline-rescue)
+[Ver projeto no GitHub](https://github.com/alexsabrasil/cicd-pipeline-rescue)
 
 ---
 
@@ -134,7 +130,7 @@ com infraestrutura e serviços executados em ambiente conteinerizado.
 **Tecnologias:**  
 `Docker` • `Docker Compose` • `Prometheus` • `Grafana` • `Terraform` • `PostgreSQL` • `LocalStack`
 
-🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/desafio-devops-observabilidade)
+[Ver projeto no GitHub](https://github.com/alexsabrasil/desafio-devops-observabilidade)
 
 ---
 
@@ -149,11 +145,11 @@ Entre as funcionalidades estão **extração e categorização de dados, auditor
 **Tecnologias:**  
 `Python` • `Streamlit` • `Pandas` • `Plotly` • `PyPDF2` • `python-docx`
 
-🔒 **Repositório em revisão para publicação no portfólio**
+**Repositório em revisão para publicação no portfólio**
 
 ---
 
-### 🔐 Delivery API Automation
+### Delivery API Automation
 
 **DevSecOps • SAST • CI/CD • Automated Testing**
 
@@ -164,7 +160,7 @@ O projeto utiliza **análise estática de segurança (SAST)** juntamente com lin
 **Tecnologias:**  
 `GitHub Actions` • `Node.js` • `Jest` • `ESLint` • `njsscan`
 
-🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/delivery-api-automation)
+[Ver projeto no GitHub](https://github.com/alexsabrasil/delivery-api-automation)
 
 ---
 
@@ -179,31 +175,17 @@ A implementação demonstra cache local de dependências, redução de acessos r
 **Tecnologias:**  
 `Nexus Repository` • `Docker` • `Node.js` • `NPM`
 
-🔗 [Ver projeto no GitHub](https://github.com/alexsabrasil/nexus-npm-proxy-lab)
+[Ver projeto no GitHub](https://github.com/alexsabrasil/nexus-npm-proxy-lab)
 
-## Tecnologia + Fator Humano
+---
 
-Minha formação também passa por **Pedagogia e Psicopedagogia**, trazendo para minha atuação em tecnologia uma visão sobre comportamento humano, aprendizagem e comunicação.
+## Tecnologia, Pessoas & Fator Humano
 
-Em Cibersegurança, essa perspectiva se conecta especialmente ao **fator humano**, conscientização em segurança, comunicação de riscos e interação entre pessoas, processos e tecnologia.
+Minha trajetória profissional também é construída sobre uma formação em **Pedagogia e Psicopedagogia**, que amplia minha atuação em tecnologia com conhecimentos relacionados a **comportamento humano, aprendizagem e comunicação**.
 
-## Experiência Prática em Cibersegurança
+Na Cibersegurança, essa perspectiva se conecta ao **fator humano**, à conscientização em segurança e à compreensão de como pessoas, processos e tecnologia interagem na proteção de ambientes digitais.
 
-### Residência em Cibersegurança | Hackers do Bem • RNP
-
-Experiência prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo atividades de identificação, análise, priorização e acompanhamento de vulnerabilidades em ambientes de laboratório.
-
-**Principais competências aplicadas:**
-
-- Vulnerability Assessment & Management
-- Análise e priorização baseada em risco
-- Monitoramento e análise de segurança
-- Gestão e acompanhamento de vulnerabilidades
-- Automação de atividades operacionais
-- Documentação técnica e comunicação de riscos
-
-**Tecnologias e ferramentas:**  
-`Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
+Essa combinação me permite olhar para sistemas não apenas sob a perspectiva técnica, mas também considerar **como pessoas compreendem, utilizam e impactam a segurança da tecnologia**.
 
 ---
 
@@ -224,7 +206,7 @@ Formação acadêmica em andamento, com foco em desenvolvimento, arquitetura, qu
 Formação acadêmica em andamento, com foco em proteção de sistemas, redes, riscos e segurança cibernética.
 
 **Residência em Cibersegurança | Hackers do Bem • RNP**  
-Formação prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo identificação, análise, priorização, monitoramento e tratamento de vulnerabilidades.
+Residência profissional com atuação prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo identificação, análise, priorização, monitoramento e tratamento de vulnerabilidades.
 
 **DevOps**  
 Formação prática com projetos envolvendo **CI/CD, DevSecOps, Docker, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Nexus, Prometheus, Grafana, observabilidade e automação**.
@@ -234,34 +216,6 @@ Desenvolvimento backend com Python, Django, APIs e fundamentos de engenharia de 
 
 **Pedagogia & Psicopedagogia**  
 Background interdisciplinar aplicado à compreensão de **comportamento humano, aprendizagem, comunicação e fator humano em tecnologia e segurança**.
-
----
-
-## 🎓 Formação & Desenvolvimento Profissional
-
-🎓 **Engenharia de Software**  
-Formação acadêmica em andamento com foco em desenvolvimento, arquitetura, qualidade e ciclo de vida de software.
-
-🔐 **Segurança da Informação**  
-Formação acadêmica em andamento com foco em proteção de sistemas, redes, riscos e segurança cibernética.
-
-🛡️ **Residência em Cibersegurança | Hackers do Bem • RNP**  
-Experiência prática com **Blue Team e Gestão de Vulnerabilidades**, incluindo identificação, análise, priorização, monitoramento e tratamento de vulnerabilidades.
-
-⚙️ **Formação prática em DevOps**  
-Projetos envolvendo **CI/CD, DevSecOps, Docker, Jenkins, Terraform, Nexus, Prometheus, Grafana e automação**.
-
-🐍 **Backend Python com Django**  
-Desenvolvimento backend, Python e construção de aplicações web.
-
-🧠 **Pedagogia & Psicopedagogia**  
-Background interdisciplinar aplicado à compreensão de **comportamento humano, aprendizagem, comunicação e fator humano em tecnologia**.
-
-## 🌎 Geopolítica & Cybersecurity
-
-Também acompanho temas relacionados a **Geopolítica, Segurança Internacional e Cibersegurança**, com interesse na relação entre tecnologia, ameaças cibernéticas, conflitos, infraestrutura crítica e o contexto geopolítico global.
-
-Esse interesse amplia minha compreensão da Cibersegurança para além das ferramentas técnicas, considerando também o **contexto estratégico em que ameaças, riscos e decisões de segurança acontecem**.
 
 ---
 
@@ -281,5 +235,4 @@ Estou aberta a oportunidades em **Cybersecurity, Blue Team, Vulnerability Manage
 
 Busco contribuir em ambientes onde possa aplicar **segurança, automação e engenharia de software** na construção e evolução de soluções confiáveis.
 
-[LinkedIn](SEU-LINK) • [E-mail](mailto:SEU-EMAIL) • [GitHub](https://github.com/alexsabrasil)
-
+<!-- Contatos serão adicionados após validação do LinkedIn e e-mail profissional -->
