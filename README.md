@@ -1,248 +1,151 @@
+<!-- BILINGUAL GITHUB PROFILE — VERSION 3.6 -->
+<!-- Visual assets: Terminal Banner V6.3 and Cyber City V1.2. -->
+<!-- Before publishing: verify bilingual navigation and visual asset paths. -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Engineering+secure+solutions...;Automating+software+delivery...;Monitoring.+Analyzing.+Protecting.;Cybersecurity+%7C+DevOps+%7C+Python" alt="Typing SVG" />
+**🇺🇸 English** | [🇧🇷 Português](README.pt-BR.md)
 
-<h1>Olá, eu sou Alexsandra Tavares</h1>
+<img src="assets/ale-security-terminal-banner-v6-3.gif" alt="Alê Security Terminal: holographic portrait, security shield and connected infrastructure formed by flowing particles" width="100%" />
 
-<h3>Software Engineering | Cybersecurity | DevOps | Python</h3>
+### Software Engineering • Cybersecurity • DevOps / DevSecOps
 
-<p>
-  Blue Team • Vulnerability Management • CI/CD • Automation • Observability
-</p>
+**Blue Team · Vulnerability Management · CI/CD · Automation · Observability**
 
 </div>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou estudante de **Engenharia de Software** e **Segurança da Informação**, com experiência prática em **Cibersegurança, Blue Team, Gestão de Vulnerabilidades, DevOps, automação e desenvolvimento com Python**.
+I am a **Software Engineering** and **Information Security** student with hands-on training in **Blue Team operations and Vulnerability Management**, and experience building projects in **DevOps and DevSecOps**. I focus on building and securing systems through automation, monitoring, testing, and continuous improvement.
 
-Minha trajetória em segurança inclui a **Residência em Cibersegurança do Programa Hackers do Bem / RNP**, com atuação prática em Gestão de Vulnerabilidades e uso de ferramentas para identificação, análise, priorização, monitoramento e tratamento de riscos.
+My background also includes education and teaching, which have strengthened my communication, technical documentation, and cross-functional collaboration skills.
 
-Também desenvolvi experiência prática em **Pentest e coleta de informações**, aplicando técnicas e ferramentas de reconhecimento e análise em ambientes controlados e educacionais.
+## Hands-on Cybersecurity Experience
 
-Na Engenharia de Software e DevOps, venho construindo projetos envolvendo **CI/CD, DevSecOps, SAST, containers, Infrastructure as Code, observabilidade, gerenciamento de artefatos e automação**, buscando integrar segurança ao ciclo de desenvolvimento desde as etapas iniciais.
+### Cybersecurity Residency — Hackers do Bem / RNP
 
-Minha formação anterior em **Pedagogia e Psicopedagogia** acrescenta uma perspectiva interdisciplinar sobre **comportamento humano, aprendizagem, comunicação e fator humano em segurança**.
+Hands-on experience in **vulnerability management**, including asset discovery and assessment, findings analysis and classification, remediation tracking, and technical documentation.
 
-Também tenho interesse em **Geopolítica e Cibersegurança**, especialmente na compreensão de como contexto geopolítico, ameaças cibernéticas e tecnologia se relacionam no cenário global.
+- **Assessment and prioritization:** OpenVAS/Greenbone, CVE/CVSS references, and DefectDojo.
+- **Monitoring and analysis:** Wazuh and Graylog.
+- **Automation and administration:** Ansible, WSUS, and Linux/Windows environments.
 
----
+> My focus is connecting vulnerability identification with remediation workflows, traceability, and risk reduction.
 
-## Cybersecurity & Blue Team
+### Independent Security Research & Application Security
 
-### Vulnerability Management | Hackers do Bem • RNP
+I work as an **independent vulnerability researcher**, developing my skills through studies and testing within authorized security research programs, in accordance with program scope and responsible disclosure policies.
 
-Experiência prática em identificação, análise, classificação, priorização e acompanhamento de vulnerabilidades, incluindo análise baseada em **CVE/CVSS**, monitoramento de segurança e automação de atividades operacionais.
+- **Application security:** studies and hands-on labs using Burp Suite.
+- **Endpoint security:** exploring Trend Micro solutions, with practical projects in development.
+- **Responsible research:** investigation, technical documentation, and continuous development of vulnerability assessment methods.
 
-**Ferramentas:**  
-`Greenbone / OpenVAS` • `DefectDojo` • `Wazuh` • `Graylog` • `Ansible` • `WSUS`
+## Featured Projects
 
-### Pentest & Offensive Security Labs
+A selection of projects covering **security, software engineering, automation, infrastructure, and observability**.
 
-Experiência prática em laboratórios controlados de segurança ofensiva, envolvendo **Information Gathering, Reconnaissance, Enumeration, análise HTTP, testes de aplicações Web e pesquisa de vulnerabilidades**.
+| Project | Problem addressed or skill demonstrated | Technologies and practices |
+| --- | --- | --- |
+| **[Vulnerability Dashboard](https://github.com/alexsabrasil/dashboard-vulnerabilidades)** | Organizing and visualizing data to support vulnerability tracking. | Vulnerability management, dashboards, metrics |
+| **[DevSecOps Commander Center](https://github.com/alexsabrasil/DevSeCops-Commander-Center)** | Visualizing security practices and decisions integrated into software development. | DevSecOps, visualization, pipeline security |
+| **[CI/CD Pipeline Rescue](https://github.com/alexsabrasil/cicd-pipeline-rescue)** | Recovering and improving a pipeline through automated checks and quality criteria. | CI/CD, testing, *fail fast*, quality gates, Docker |
+| **[Kubernetes Challenge](https://github.com/alexsabrasil/desafio-kubernetes)** | Deploying applications and databases in an orchestrated environment. | Kubernetes, Minikube, Docker, Node.js, PostgreSQL |
+| **[API-Lab](https://github.com/alexsabrasil/api-lab)** | Building an API with tests, metrics, and continuous integration practices. | Node.js, Express, testing, observability |
 
-**Ferramentas e ambientes:**  
-`Kali Linux` • `Nikto` • `SQLMap` • `Gobuster` • `Hydra`
+### Additional Projects & Labs
 
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+Earlier projects documenting my technical growth and complementary skills:
+
+- **[DevOps & Observability](https://github.com/alexsabrasil/desafio-devops-observabilidade):** application monitoring and metrics using Prometheus and Grafana.
+- **[Delivery API Automation](https://github.com/alexsabrasil/delivery-api-automation):** automated quality and security checks in CI/CD pipelines.
+- **[Nexus NPM Proxy Lab](https://github.com/alexsabrasil/nexus-npm-proxy-lab):** dependency management and caching with Nexus Repository.
+
+## Technical Skills
+
+**`SECURITY.TOOLKIT` — Featured Technologies**
+
+![Python](https://img.shields.io/badge/Python-1A2332?style=flat-square&logo=python&logoColor=00D9FF)
+![Linux](https://img.shields.io/badge/Linux-1A2332?style=flat-square&logo=linux&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-1A2332?style=flat-square&logo=docker&logoColor=00D9FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1A2332?style=flat-square&logo=kubernetes&logoColor=00D9FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1A2332?style=flat-square&logo=githubactions&logoColor=00D9FF)
+![Wazuh](https://img.shields.io/badge/Wazuh-1A2332?style=flat-square&logoColor=00D9FF)
+![Nmap](https://img.shields.io/badge/Nmap-1A2332?style=flat-square&logoColor=00D9FF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-1A2332?style=flat-square&logo=burpsuite&logoColor=00D9FF)
 
 
-**Web Security:**  
-`OWASP` • `PortSwigger Web Security Academy` • `Burp Proxy` • `Repeater` • `Intruder` • `Decoder`
+| Area | Tools and hands-on knowledge |
+| --- | --- |
+| **Blue Team & Vulnerability Management** | OpenVAS/Greenbone, DefectDojo, Wazuh, Graylog, CVE/CVSS, Ansible, WSUS |
+| **Application Security** | OWASP fundamentals, Burp Suite, Nmap, Wireshark, vulnerability analysis |
+| **DevOps & DevSecOps** | Git, GitHub Actions, GitLab CI/CD, Jenkins, SAST, automated testing, quality gates |
+| **Containers & Infrastructure** | Docker, Docker Compose, Kubernetes, Minikube, Terraform, LocalStack |
+| **Observability** | Prometheus, Grafana, metrics and logs |
+| **Development & Automation** | Python, JavaScript/Node.js, SQL, Linux, REST APIs |
 
----
 
-## DevOps & DevSecOps
+## CTFs & Security Challenges
 
-Experiência prática na construção de ambientes e pipelines envolvendo **CI/CD, containerização, análise estática de segurança, Infrastructure as Code, gerenciamento de artefatos e observabilidade**.
+Participation in hands-on cybersecurity challenges focused on investigation, evidence analysis, problem-solving, and technical skill development.
 
-**CI/CD & Version Control**  
-`Git` • `GitHub` • `GitHub Actions` • `GitLab CI/CD` • `Jenkins`
+- **FEBRABAN Cyber Academy 2026 — CTF #3:** participation completed.
+- **Hackers do Bem / RNP:** practical security exercises and challenges throughout the training program.
+- **WOMCY CTF 2026:** participation in preparation and training sessions; competition scheduled.
+- **Women's CTF:** preparation activities and skill development for cybersecurity competitions.
 
-**Containers & Infrastructure**  
-`Docker` • `Docker Compose` • `Docker Hub` • `Terraform` • `LocalStack`
+> Participation records and public write-ups will be added as evidence becomes available, in accordance with each competition's rules.
 
-**DevSecOps & Artifact Management**  
-`SAST` • `Nexus Repository` • `Quality Gates`
+## Training & Research Platforms
 
-**Observability**  
-`Prometheus` • `Grafana`
+- **[Bugcrowd](https://www.bugcrowd.com/)** — independent vulnerability research focused on authorized security testing and responsible disclosure.
+- **PortSwigger Web Security Academy** — learning resource for web application security and Burp Suite.
 
-**Systems & Automation**  
-`Linux` • `Shell`
+## Education & Community
 
----
+### Academic Background
 
-## Projetos em Destaque
+- **Software Engineering** and **Information Security** — UniFatecie, degrees in progress.
+- **Education (Pedagogy) and Psychopedagogy** — previous academic background, with experience in teaching and learning.
 
-Projetos selecionados que demonstram minha experiência prática em **Cybersecurity, DevSecOps, DevOps, Observability, Python e automação**.
+### Technical Training
 
-### Dashboard de Gestão de Vulnerabilidades
+- **Cybersecurity Residency — Hackers do Bem / RNP** — completed, focused on Vulnerability Management.
+- **CISSA Journey (2026)** — cybersecurity training and professional development.
+- **Android Mobile Penetration Testing — OVER Security (2026)** — Android security studies, reverse engineering, Android Studio, ADB, and Burp Suite.
+- **Hands-on DevOps Training — FAP** — pipelines, containers, infrastructure as code, and observability.
 
-**Cybersecurity • Vulnerability Management • Python • Data Analysis**
+### Communities & Initiatives
 
-Solução desenvolvida para apoiar processos de **Gestão de Vulnerabilidades**, permitindo consolidar, analisar e priorizar vulnerabilidades com base em severidade e risco.
 
-O projeto transforma dados técnicos de segurança em informações visuais para apoiar **análise, priorização e tomada de decisão**.
+**WOMCY Brasil — CyberEdu Member**
 
-**Tecnologias:**  
-`Python` • `Streamlit` • `Pandas` • `Plotly` • `CVSS`
+<img src="assets/womcy-cyberedu-member.png" alt="WOMCY Brasil CyberEdu Member badge" width="125">
 
-[Ver projeto no GitHub](https://github.com/alexsabrasil/dashboard-vulnerabilidades)
+CyberEdu member of WOMCY Brasil, a community supporting women's professional development, training, and participation in cybersecurity.
+- **Google Student Ambassadors 2026** — learning, communication, and responsible AI initiatives.
+- **Technology communities and events** — collaboration, knowledge sharing, and professional development.
 
----
+## My Contribution Journey | GitHub Activity
 
-### CI/CD Pipeline Rescue | TechExpress
+**`GITHUB.ACTIVITY` — Cyber City — Live Contribution Network**
 
-**DevOps • CI/CD • Quality Gates • Docker • Automation**
+This three-dimensional calendar visualizes my GitHub activity over time. Each tile represents one day, and building height reflects the relative intensity of contributions.
 
-Esteira CI/CD desenvolvida para substituir um cenário de **deploy manual sujeito a falhas**, automatizando validações antes da chegada do software à produção.
+![Animated 3D GitHub contribution calendar for Alexsandra](assets/cyber-city-v1-2.svg)
 
-A solução implementa conceitos de **Fail Fast**, testes automatizados, cobertura de código, análise estática, containerização, validação em staging e controle da implantação em produção.
+Buildings represent days with recorded GitHub contributions. Their height reflects activity intensity, while the moving light trails artistically symbolize ongoing learning and technical growth.
 
-**Tecnologias e práticas:**  
-`GitHub Actions` • `Docker` • `Node.js` • `Jest` • `ESLint` • `SAST` • `Quality Gates`
+*More than a sequence of commits, this visualization reflects a journey of learning, experimentation, and continuous development.*
 
-[Ver projeto no GitHub](https://github.com/alexsabrasil/cicd-pipeline-rescue)
-
----
-
-### DevOps & Observabilidade
-
-**Observability • Monitoring • Containers • Infrastructure as Code**
-
-Ambiente desenvolvido para integrar aplicação, banco de dados e ferramentas de observabilidade, permitindo acompanhar a saúde da aplicação e suas métricas.
-
-O laboratório implementa o fluxo:
-
-`Application → Metrics → Prometheus → Grafana`
-
-com infraestrutura e serviços executados em ambiente conteinerizado.
-
-**Tecnologias:**  
-`Docker` • `Docker Compose` • `Prometheus` • `Grafana` • `Terraform` • `PostgreSQL` • `LocalStack`
-
-[Ver projeto no GitHub](https://github.com/alexsabrasil/desafio-devops-observabilidade)
-
----
-
-### Analisador de Contas Médicas
-
-**Python • Data Analysis • Automation • Business Rules**
-
-Aplicação desenvolvida para automatizar o processamento e a análise de contas médicas, desde a extração de informações de documentos até a aplicação de regras de negócio e geração de visualizações e relatórios.
-
-Entre as funcionalidades estão **extração e categorização de dados, auditoria de inconsistências, aplicação de regras de reajuste, dashboards interativos e exportação de resultados**.
-
-**Tecnologias:**  
-`Python` • `Streamlit` • `Pandas` • `Plotly` • `PyPDF2` • `python-docx`
-
-**Repositório em revisão para publicação no portfólio**
 
 ---
 
-### Delivery API Automation
+## Content Usage
 
-**DevSecOps • SAST • CI/CD • Automated Testing**
+The original content of this profile, including its structure, written material, and presentation elements, was created by **Alexsandra Tavares**.
 
-Pipeline de automação integrando validações de qualidade e segurança ao ciclo de desenvolvimento de uma API.
+Reuse, adaptation, or reproduction of this content in other projects, profiles, or publications requires prior authorization from the author.
 
-O projeto utiliza **análise estática de segurança (SAST)** juntamente com lint e testes automatizados, aplicando princípios de **DevSecOps e Shift Left Security**.
-
-**Tecnologias:**  
-`GitHub Actions` • `Node.js` • `Jest` • `ESLint` • `njsscan`
-
-[Ver projeto no GitHub](https://github.com/alexsabrasil/delivery-api-automation)
-
----
-
-### Nexus NPM Proxy Lab
-
-**Artifact Management • Dependency Management • DevOps**
-
-Laboratório de gerenciamento de dependências utilizando o **Sonatype Nexus Repository Manager como proxy para o registro NPM**.
-
-A implementação demonstra cache local de dependências, redução de acessos repetidos ao registro público e maior controle e resiliência no gerenciamento de artefatos.
-
-**Tecnologias:**  
-`Nexus Repository` • `Docker` • `Node.js` • `NPM`
-
-[Ver projeto no GitHub](https://github.com/alexsabrasil/nexus-npm-proxy-lab)
-
----
-
-## Tecnologia, Pessoas & Fator Humano
-
-Minha trajetória profissional também é construída sobre uma formação em **Pedagogia e Psicopedagogia**, que amplia minha atuação em tecnologia com conhecimentos relacionados a **comportamento humano, aprendizagem e comunicação**.
-
-Na Cibersegurança, essa perspectiva se conecta ao **fator humano**, à conscientização em segurança e à compreensão de como pessoas, processos e tecnologia interagem na proteção de ambientes digitais.
-
-Essa combinação me permite olhar para sistemas não apenas sob a perspectiva técnica, mas também considerar **como pessoas compreendem, utilizam e impactam a segurança da tecnologia**.
-
----
-
-## Geopolítica & Cybersecurity
-
-Também acompanho temas relacionados a **Geopolítica, Segurança Internacional e Cibersegurança**, com interesse em compreender como tecnologia, ameaças cibernéticas, conflitos e infraestrutura crítica se relacionam no cenário global.
-
-Esse interesse amplia minha visão sobre segurança para além das ferramentas técnicas, considerando também o **contexto estratégico em que riscos, ameaças e decisões de segurança acontecem**.
-
----
-
-## Formação & Desenvolvimento Profissional
-
-**Engenharia de Software**  
-Formação acadêmica em andamento, com foco em desenvolvimento, arquitetura, qualidade e ciclo de vida de software.
-
-**Segurança da Informação**  
-Formação acadêmica em andamento, com foco em proteção de sistemas, redes, riscos e segurança cibernética.
-
-**Residência em Cibersegurança | Hackers do Bem • RNP**  
-Residência profissional com atuação prática em **Blue Team e Gestão de Vulnerabilidades**, envolvendo identificação, análise, priorização, monitoramento e tratamento de vulnerabilidades.
-
-**DevOps**  
-Formação prática com projetos envolvendo **CI/CD, DevSecOps, Docker, GitHub Actions, GitLab CI/CD, Jenkins, Terraform, Nexus, Prometheus, Grafana, observabilidade e automação**.
-
-**Backend Python com Django**  
-Desenvolvimento backend com Python, Django, APIs e fundamentos de engenharia de software.
-
-**Pedagogia & Psicopedagogia**  
-Background interdisciplinar aplicado à compreensão de **comportamento humano, aprendizagem, comunicação e fator humano em tecnologia e segurança**.
-
----
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexsabrasil/alexsabrasil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexsabrasil/alexsabrasil/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/alexsabrasil/alexsabrasil/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## Vamos conversar?
-
-Estou aberta a oportunidades em **Cybersecurity, Blue Team, Vulnerability Management, DevSecOps, DevOps e Software Engineering**.
-
-Busco contribuir em ambientes onde possa aplicar **segurança, automação e engenharia de software** na construção e evolução de soluções confiáveis.
-
-<!-- Contatos serão adicionados após validação do LinkedIn e e-mail profissional -->
-
----
-
-## Uso do conteúdo
-
-O conteúdo original deste perfil, incluindo sua estrutura, textos e elementos de apresentação, é de autoria de **Alexsandra Tavares**.
-
-A reutilização, adaptação ou reprodução deste conteúdo para outros projetos, perfis ou publicações requer autorização prévia da autora.
-
-© 2026 Alexsandra Tavares. Todos os direitos reservados.
+© 2026 Alexsandra Tavares. All rights reserved.
